@@ -274,23 +274,6 @@ lib/
 - [ ] Reducción del tamaño de la app
 - [ ] Mejoras en el rendimiento
 
-## Contribución
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-- **Proyecto**: SIG Shoes
-- **Repositorio**: https://github.com/usuario/sig_shoes
-- **Backend**: https://github.com/Aliaga23/SIG_Backend
 
 ---
 
