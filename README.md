@@ -274,8 +274,3 @@ lib/
 - [ ] Reducción del tamaño de la app
 - [ ] Mejoras en el rendimiento
 
-
----
-
-*Desarrollado con ❤️ usando Flutter y FastAPI*
-# SIG_FRONTEND
